@@ -49,14 +49,20 @@ cmake_ninja_workdir = C$:/Users/jllav/CLionProjects/CP4/cmake-build-debug/
 
 build cmake_object_order_depends_target_CP4: phony || CMakeFiles/CP4.dir
 
-build CMakeFiles/CP4.dir/Ch1/UVa_10071.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_10071.cpp || cmake_object_order_depends_target_CP4
-  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_10071.cpp.obj.d
+build CMakeFiles/CP4.dir/Ch1/UVa_1124.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_1124.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_1124.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CP4.dir
   OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
 
-build CMakeFiles/CP4.dir/Ch1/UVa_11614.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_11614.cpp || cmake_object_order_depends_target_CP4
-  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_11614.cpp.obj.d
+build CMakeFiles/CP4.dir/Ch1/UVa_11172.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_11172.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_11172.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\CP4.dir
+  OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
+
+build CMakeFiles/CP4.dir/Ch1/UVa_12372.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_12372.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_12372.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CP4.dir
   OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
@@ -67,20 +73,32 @@ build CMakeFiles/CP4.dir/Ch1/UVa_13025.cpp.obj: CXX_COMPILER__CP4_Debug C$:/User
   OBJECT_DIR = CMakeFiles\CP4.dir
   OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
 
-build CMakeFiles/CP4.dir/Ch1/UVa_1124.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_1124.cpp || cmake_object_order_depends_target_CP4
-  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_1124.cpp.obj.d
-  FLAGS = -g -std=gnu++17
-  OBJECT_DIR = CMakeFiles\CP4.dir
-  OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
-
 build CMakeFiles/CP4.dir/Ch1/UVa_11044.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_11044.cpp || cmake_object_order_depends_target_CP4
   DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_11044.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CP4.dir
   OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
 
+build CMakeFiles/CP4.dir/Ch1/UVa_11614.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_11614.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_11614.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\CP4.dir
+  OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
+
+build CMakeFiles/CP4.dir/Ch1/UVa_12250.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_12250.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_12250.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\CP4.dir
+  OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
+
 build CMakeFiles/CP4.dir/Ch1/UVa_11547.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_11547.cpp || cmake_object_order_depends_target_CP4
   DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_11547.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  OBJECT_DIR = CMakeFiles\CP4.dir
+  OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
+
+build CMakeFiles/CP4.dir/Ch1/UVa_10071.cpp.obj: CXX_COMPILER__CP4_Debug C$:/Users/jllav/CLionProjects/CP4/Ch1/UVa_10071.cpp || cmake_object_order_depends_target_CP4
+  DEP_FILE = CMakeFiles\CP4.dir\Ch1\UVa_10071.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\CP4.dir
   OBJECT_FILE_DIR = CMakeFiles\CP4.dir\Ch1
@@ -93,7 +111,7 @@ build CMakeFiles/CP4.dir/Ch1/UVa_11547.cpp.obj: CXX_COMPILER__CP4_Debug C$:/User
 #############################################
 # Link the executable CP4.exe
 
-build CP4.exe: CXX_EXECUTABLE_LINKER__CP4_Debug CMakeFiles/CP4.dir/Ch1/UVa_10071.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11614.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_13025.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_1124.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11044.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11547.cpp.obj
+build CP4.exe: CXX_EXECUTABLE_LINKER__CP4_Debug CMakeFiles/CP4.dir/Ch1/UVa_1124.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11172.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_12372.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_13025.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11044.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11614.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_12250.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_11547.cpp.obj CMakeFiles/CP4.dir/Ch1/UVa_10071.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CP4.dir

@@ -1,4 +1,4 @@
-$FILE = '.\Ch1\UVa_11547.cpp'
+$FILE = '.\Ch1\UVa_12372.cpp'
 g++ -O2 -std=c++11 $FILE -o program.exe
 Write-Host 'Compiled'
 
