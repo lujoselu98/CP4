@@ -13,4 +13,5 @@ int main(){
             printf("Case %d: good\n", i);
         i++;
     }
+    return 0;
 }

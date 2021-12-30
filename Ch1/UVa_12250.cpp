@@ -23,4 +23,5 @@ int main() {
         cout << "Case " << i << ": " << language << endl;
         i++;
     }
+    return 0;
 }

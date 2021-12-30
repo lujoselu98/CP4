@@ -12,4 +12,5 @@ int main(){
         else
             printf("=\n");
     }
+    return 0;
 }
